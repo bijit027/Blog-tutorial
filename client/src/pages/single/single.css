@@ -1,0 +1,8 @@
+.single {
+  display: flex;
+  margin-left: 200px;
+}
+.space {
+  width: 200px;
+  height: 700px;
+}
